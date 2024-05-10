@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Week1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Week2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Week3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Week4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Week5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Square-demo" vcs="Git" />
+  </component>
+</project>

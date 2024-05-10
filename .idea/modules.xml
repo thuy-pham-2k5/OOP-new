@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Week1/Java_Week1.iml" filepath="$PROJECT_DIR$/Java_Week1/Java_Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Week2/Java_Week2.iml" filepath="$PROJECT_DIR$/Java_Week2/Java_Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Week3/Java_Week3.iml" filepath="$PROJECT_DIR$/Java_Week3/Java_Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Week4/Java_Week4.iml" filepath="$PROJECT_DIR$/Java_Week4/Java_Week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Week5/Java_Week5.iml" filepath="$PROJECT_DIR$/Java_Week5/Java_Week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Square-demo/Square-demo.iml" filepath="$PROJECT_DIR$/Square-demo/Square-demo.iml" />
+    </modules>
+  </component>
+</project>
